@@ -1,4 +1,4 @@
-# Exercise 08 Multiplexer and Demultiplexer
+# Exercise 07 Multiplexer and Demultiplexer
 
 ## AIM: 
 
